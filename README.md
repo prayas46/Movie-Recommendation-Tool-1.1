@@ -74,7 +74,7 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
-Edit `.env` and add your API key:
+Edit `.env` and add your API Key:
 ```
 TMDB_API_KEY=your_api_key_here
 ```
